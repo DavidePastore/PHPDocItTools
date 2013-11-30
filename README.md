@@ -1,7 +1,7 @@
 PHPDocItTools
 =============
 
-Utility for the Italian PHP documentation.
+Utilità per la traduzione italiana della documentazione di PHP.
 
 Accento
 -------
@@ -12,13 +12,13 @@ perché, poiché, sicché
 Accento grave E aperta:
 è, cioè
 
+Link
+----
 
-Come contribuire
-----------------
+Come contribuire:
 https://wiki.php.net/doc/howto
 
-Per ottenere un account
------------------------
+Per ottenere un account:
 http://us.php.net/git-php.php
 
 
