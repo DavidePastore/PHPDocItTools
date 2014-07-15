@@ -16,7 +16,7 @@ Link
 ----
 
 Come contribuire:
-https://wiki.php.net/doc/howto
+http://doc.php.net/tutorial/
 
 Per ottenere un account:
 http://us.php.net/git-php.php
